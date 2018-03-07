@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  ibm-blockchain-network:
+  - appVersion: 1.0.0
+    created: 2018-03-06T20:59:18.221242545-05:00
+    description: IBM Blockchain Network Chart
+    digest: f99c3540984e84d7dc6b1d9733959259b2d9efd3249ba32d319e400fb8e53cfc
+    engine: gotpl
+    home: https://ibm-blockchain.github.io
+    icon: https://www.ibm.com/blogs/bluemix/wp-content/uploads/2016/02/IBM_Blockchain_Hero.png
+    keywords:
+    - blockchain
+    maintainers:
+    - email: mrshah@us.ibm.com
+      name: mrshah-at-ibm
+    - email: dbshah@us.ibm.com
+      name: dhyey20
+    - email: deallen@us.ibm.com
+      name: eddie-at-ibm
+    name: ibm-blockchain-network
+    sources:
+    - https://github.ibm.com/IBM-Blockchain/ibm-container-service
+    urls:
+    - https://mwbonett.github.io/helmcharts/ibm-blockchain-network-1.0.0.tgz
+    version: 1.0.0
+generated: 2018-03-06T20:59:18.220621981-05:00
