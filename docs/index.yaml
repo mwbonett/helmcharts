@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   ibm-blockchain-network:
   - appVersion: 1.0.0
-    created: 2018-03-12T18:24:44.412095452-04:00
+    created: 2018-03-15T15:37:37.364158513-04:00
     description: IBM Blockchain Network Chart
     digest: f99c3540984e84d7dc6b1d9733959259b2d9efd3249ba32d319e400fb8e53cfc
     engine: gotpl
@@ -25,12 +25,12 @@ entries:
     version: 1.0.0
   mwb-sshd-key:
   - apiVersion: v1
-    created: 2018-03-12T18:24:44.412364791-04:00
+    created: 2018-03-15T15:37:37.364914706-04:00
     description: sshd server (key access)
-    digest: f8a76417b5484ab93753fb244333812595ad2e9fa16bc900424b218d95c8cf3f
+    digest: 95710a7cc1c0614b5d61e385ea6faf80ffad7e1d5f6e34173e0c09dcee755c71
     icon: http://9.82.56.117/images/ibmlogo.png
     name: mwb-sshd-key
     urls:
-    - http:///mwbonett.github.io/helmcharts/mwb-sshd-key-0.1.1.tgz
-    version: 0.1.1
-generated: 2018-03-12T18:24:44.41055947-04:00
+    - http:///mwbonett.github.io/helmcharts/mwb-sshd-key-0.1.2.tgz
+    version: 0.1.2
+generated: 2018-03-15T15:37:37.362769748-04:00
